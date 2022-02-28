@@ -1,0 +1,19 @@
+:root {
+    --primaryColor: #4A148C;
+    --mainWhite: #fff;
+    --mainBlack: #000;
+    --mainGreen: #f8faf9;
+    --mainBlue: #f8f9fb;
+    --mainGray: #7d7d7d;
+}
+
+#btn-shop {
+    color: var(--mainWhite);
+    background-color: var(--primaryColor);
+    border-radius: 20px;
+}
+
+#btn-next {
+    border: 1px solid #4A148C;
+    border-radius: 20px;
+}
